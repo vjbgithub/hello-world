@@ -1,0 +1,4 @@
+Hello.txt
+
+My name is Veronica and this is my text file. I cloned my Hello World Repo.
+Then I added this txt file to the cloned repo. I hope this is what the teacher wanted.
